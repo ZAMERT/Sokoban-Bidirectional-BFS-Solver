@@ -1,0 +1,290 @@
+8 4
+########
+#TTB.BS#
+#......#
+########
+
+DLLULLDRRRRULLL
+
+8 5
+########
+#..S...#
+#...B..#
+#.T....#
+########
+
+RDRDLL
+
+8 6
+########
+#T.....#
+#......#
+#B..TB.#
+#.S....#
+########
+
+LUURRRRRDL
+
+
+8 4
+########
+#TR..BS#
+#......#
+########
+
+LDLLULDRRRULL
+
+8 5
+########
+#..BB..#
+#......#
+#T.S..T#
+########
+
+No solution!
+
+
+8 5
+########
+#T.B...S#
+#...B.T.#
+#.......#
+########
+
+LLLLLDRRR
+
+
+8 4
+########
+#T.B#BS#
+#..T...#
+########
+
+No solution!
+
+
+12 8
+############
+#..........#
+#S...B.....#
+#.####..####
+#.#..T...#.#
+#.#..B..T#.#
+#..#######.#
+############
+
+RRRRURDDRDDLLULLDRRRRUL
+RRRRURDDRDDLLULLDRRRRUL
+
+
+8 4
+########
+#.RR.RS#
+#.......#
+########
+
+Right.
+
+
+8 13
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRR
+
+
+8 9
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRR
+
+
+8 11
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRR
+
+8 12
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDDRRRR
+
+6 6
+######
+#....#
+#.BST#
+#.#BT#
+#.B.T#
+######
+
+ULLDRRURDLLLDDRRUDLLUURR
+
+7 7
+#######
+#SB..T#
+#RBRB.#
+#.B..T#
+#TBR..#
+#T..T.#
+#######
+
+DDRRR LLL UU RR DL DD RU DDRRUL DLLUUUURR DDD
+DD RR LL UU RR DL DD RU RL DD RR UL DLL UUUURRDDD
+
+
+6 6
+######
+#.T..#
+#..BS#
+#.B#.#
+#..T.#
+######
+ULLDDUURRDLULDLDDRUU
+
+6 6
+######
+#.T..#
+#.BBS#
+#.BT.#
+#..T.#
+######
+ULDDUULLDDRU
+
+7 7
+#######
+#.....#
+#..BB.#
+#.B.BS#
+#TT####
+#TT####
+#######
+
+UULLLDDUURRRDDLLLULDDURDUUURRDLRRDLLULDUULDD
+
+
+8 15
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRR
+
+
+8 19
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRRLLLLDDRRRR
+
+
+8 9
+########
+#S.B..T#
+#.######
+#.B...T#
+#.######
+#.B...T#
+#.######
+#.B...T#
+########
+
+
+
+
+8 5
+########
+#S.B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRR
+
+
+8 7
+########
+#S.B..T#
+#.######
+#..B..T#
+#.######
+#..B..T#
+########
+
+RRRRLLLLDDRRRR LLLLDDRRRR
+
+8 6
+########
+#T.....#
+#......#
+#.B.T..#
+#.S....#
+########

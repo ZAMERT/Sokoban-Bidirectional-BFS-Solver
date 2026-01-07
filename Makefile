@@ -1,7 +1,7 @@
 CC = clang++
-CFLAGS = -std=c++1z -O2 -Wall -Wextra -Werror -pedantic -Wno-unused-result -Wconversion -Wvla
+CFLAGS = -std=c++17 -O2 -Wall -Wextra -pedantic -Wno-unused-result -Wconversion -Wvla
 
-TARGET = main
+TARGET = sokoban
 
 all: $(TARGET)
 
